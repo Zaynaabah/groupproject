@@ -2,25 +2,30 @@
 
 ### Clone the repo and add your file
 
-`````shell
+```shell
 git clone https://github.com/Zaynaabah/groupproject.git
 ```
 
-````shell
+```shell
 git init
 ```
+
 <!-- add all you new pages or work -->
-````shell
+
+```shell
 git add .
 ```
-```git commit -m "message"
+
+```shell
+git commit -m "message"
 ```
 
 <!-- check if you code is uptodate with the all code base  -->
 
-````shell
+```shell
 git pull -u origin main
 ```
-````shell
+
+```shell
 git push -u origin main
-`````
+```
